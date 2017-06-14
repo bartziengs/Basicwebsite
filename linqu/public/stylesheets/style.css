@@ -1,0 +1,20 @@
+body {
+  padding-top: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #aabbcc; }
+
+.jumbotron {
+  background: url("../images/delft.jpg") center center no-repeat; }
+
+footer {
+  background: #f46e44;
+  height: 30px;
+  text-align: left;
+  margin-top: 30px;
+  padding: 50px;
+  overflow: auto;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
